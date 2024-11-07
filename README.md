@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hello 👋 random stranger!
+
+// TODO: too busy writing code ⌨️ to write about me 😜
 
 <!--
 **mrdaybird/mrdaybird** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
